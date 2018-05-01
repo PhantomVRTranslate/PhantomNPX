@@ -1,0 +1,18 @@
+{
+  "author": "",
+  "dependencies": {
+    "get-stdin": "^5.0.1",
+    "optimist": "^0.6.1",
+    "strip-eof": "^1.0.0"
+  },
+  "deprecated": false,
+  "description": "Phantom project creation script",
+  "license": "ISC",
+  "main": "./index",
+  "name": "@project-phantom/create",
+  "scripts": {
+    "test": "test"
+  },
+  "bin": "./npx.js",
+  "version": "0.0.18"
+}
